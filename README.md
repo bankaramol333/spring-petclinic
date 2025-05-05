@@ -17,7 +17,7 @@ The website simulates a Pet Clinic management system where users can:
 
 🔍 Search for owners by last name
 
-It's useful for demonstrating:
+This project is useful for demonstrating:
 
 Spring MVC architecture
 
@@ -28,24 +28,24 @@ Use of Spring Data JPA for database access
 Maven project structure
 
 ⚙️ Technologies Used
-Spring Boot: For creating the standalone web application
+Spring Boot – For creating the standalone web application
 
-Spring MVC: For handling web requests and controllers
+Spring MVC – For handling web requests and controllers
 
-Spring Data JPA: For interacting with the database (H2 by default)
+Spring Data JPA – For interacting with the database (H2 by default)
 
-Thymeleaf: Templating engine for rendering HTML pages
+Thymeleaf – Templating engine for rendering HTML pages
 
-H2 Database: In-memory database that resets on every app restart
+H2 Database – In-memory database that resets on every app restart
 
-Maven: For project build and dependency management
+Maven – For project build and dependency management
 
 🔗 Accessing the Website
-Once the app is running, you can open:
+Once the app is running, open your browser and visit:
 
-http://localhost:8080/
+👉 http://localhost:8080/
 
-This brings up the PetClinic homepage, where you can navigate the different features like:
+You can explore different features like:
 
 Owners
 
@@ -53,15 +53,15 @@ Veterinarians
 
 Pet types and visits
 
-Here’s an example of a real usage flow:
+🧪 Example Usage Flow
+➕ Add an Owner (name, address, etc.)
 
-Add an Owner (name, address, etc.)
+➕ Add a Pet to that owner
 
-Add a Pet to that owner
+🗓️ Add a Visit (with date and description) for that pet
 
-Add a Visit (with date and description) for that pet
+🔍 View everything on the Owner’s profile page
 
-View it all on the owner's profile page
 
 
 
