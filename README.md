@@ -80,7 +80,7 @@ View it all on the owner's profile page
 
 ```bash
 git clone https://github.com/bankaramol333/spring-petclinic.git
-cd spring-petclinic
+cd spring-petclinic-main
 ```
 
 #### 2. Build the project
